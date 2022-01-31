@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/myreact-webpage/static/css/main.9d5b29c0.chunk.css",
+    "main.js": "/myreact-webpage/static/js/main.2e9b1a1d.chunk.js",
+    "main.js.map": "/myreact-webpage/static/js/main.2e9b1a1d.chunk.js.map",
+    "runtime-main.js": "/myreact-webpage/static/js/runtime-main.0133d922.js",
+    "runtime-main.js.map": "/myreact-webpage/static/js/runtime-main.0133d922.js.map",
+    "static/js/2.d4c15a95.chunk.js": "/myreact-webpage/static/js/2.d4c15a95.chunk.js",
+    "static/js/2.d4c15a95.chunk.js.map": "/myreact-webpage/static/js/2.d4c15a95.chunk.js.map",
+    "static/js/3.613c88e4.chunk.js": "/myreact-webpage/static/js/3.613c88e4.chunk.js",
+    "static/js/3.613c88e4.chunk.js.map": "/myreact-webpage/static/js/3.613c88e4.chunk.js.map",
+    "index.html": "/myreact-webpage/index.html",
+    "static/css/main.9d5b29c0.chunk.css.map": "/myreact-webpage/static/css/main.9d5b29c0.chunk.css.map",
+    "static/js/2.d4c15a95.chunk.js.LICENSE.txt": "/myreact-webpage/static/js/2.d4c15a95.chunk.js.LICENSE.txt",
+    "static/media/profile.52d295d1.png": "/myreact-webpage/static/media/profile.52d295d1.png",
+    "static/media/resume.9173ff19.pdf": "/myreact-webpage/static/media/resume.9173ff19.pdf"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0133d922.js",
+    "static/js/2.d4c15a95.chunk.js",
+    "static/css/main.9d5b29c0.chunk.css",
+    "static/js/main.2e9b1a1d.chunk.js"
+  ]
+}
